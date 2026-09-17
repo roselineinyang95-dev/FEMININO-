@@ -1,2 +1,2 @@
 # FEMININO-
-FEMININO is a brand that specializes on the sales of female underwears, nighties, lingeries etc.This project analyses the customer satisfaction and business performance of the brand using python for Exploratory Data Analysis and Power BI for Data Visualization.
+FEMININO is a brand that specializes in selling women's underwear, nighties, lingerie, etc. This project analyses customer satisfaction and the brand's business performance using Python for Exploratory Data Analysis and Power BI for Data Visualization.
