@@ -5,7 +5,10 @@ FEMININO is a luxury fashion brand that specializes in the sale of women's under
 Over the years, FEMININO has grown steadily, expanded into new areas, and has had a growing customer base and active marketing campaigns across multiple channels. Despite the growth, there are some challenges hovering around the business. It has been difficult to identify high-value customers due to not having a clear segmentation of customers. There are also limited insights into which channel delivers the highest conversions and ROI.
 
 ## Objectives
-This project seeks to analyze the customer satisfaction and business performance of the brand while pinpointing our most effective marketing channels in order to improve the running or performance of the business.
+This project analyzes customer satisfaction and business performance and identifies our most effective marketing channels to improve business performance.
+
+## Datasets: Blinkit
+
 
 ## Tools Used
 -Python
@@ -21,7 +24,7 @@ This project seeks to analyze the customer satisfaction and business performance
 4. The NIGHT period has the highest number of orders, significantly surpassing all other times of the day. It shows that the majority of customers' orders occur during the Night.
 5. The preferred modes are very evenly split among all four options, but MOBILE CARD tops the list.
 6. The trend shows revenue fluctuations; it indicates that while the business maintained consistent growth for most of the period, there was a notable drop towards the end, suggesting possible seasonal or operational challenges.
-7. App is the highest-converting channel with 75, 192 conversions. The conversions are highly competitive across the 3 channels, indicating a strong performance across digital platforms.
+7. App is the highest-converting channel with 75, 192 conversions. The conversions are highly competitive across the 3 channels, indicating strong performance across digital platforms.
 8. The REGULAR customer segment generates the highest number of orders, reaching nearly 300,000, followed closely by the NEW segment.
 9. The analysis of customers' level of satisfaction by customers based on ratings shows that the majority of customers gave their rating review as 4-star(34.16%), followed by 3-star (27.96%). This indicates that while customers generally have a positive perception of the business, there is still room for improvement in achieving higher satisfaction levels. Only 16.32% gave 5-star ratings, which suggests that customers are moderately satisfied but not fully delighted with their experience.
 
