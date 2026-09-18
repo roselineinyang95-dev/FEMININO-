@@ -2,19 +2,21 @@
 
 ## Project Overview
 FEMININO is a luxury fashion brand that specializes in the sale of women's underwear, nighties, lingerie, and other female essentials.  
-Over the years, FEMININO has grown steadily, expanded into new areas, and has had a growing customer base and active marketing campaigns across multiple channels. Despite the growth, there are some challenges hovering around the business. It has been difficult to identify high-value customers due to not having a clear segmentation of customers. There are also limited insights into which channel delivers the highest conversions and ROI.
+Over the years, FEMININO has grown steadily, expanded into new areas, and has had a growing customer base and active marketing campaigns across multiple channels. Despite the growth, there are some challenges hovering around the business. It has been difficult to identify high-value customers due to not having clear customer segmentation. There are also limited insights into which channel delivers the highest conversions and ROI.
 
 ## Objectives
 This project analyzes customer satisfaction and business performance and identifies our most effective marketing channels to improve business performance.
 
-## Datasets: Blinkit
-
+## Dataset: Blinkit
+The dataset is called Blinkit and contains data covering customers, customer feedback, orders, order items, products, and marketing performance.
+The datasets were cleaned and prepared by checking for missing values, duplicates, and data inconsistencies. Relevant tables were merged using customerid and orderId, while additional tables were created from existing data to support the analysis. The analyzed data was then imported into Power BI for visualization and dashboard development.
 
 ## Tools Used
 -Python
 -Pandas
 -Numpy
--Power Query
+-Matplotlib
+-Seaborn
 -Power BI
 
 ## Key Insights
