@@ -7,7 +7,7 @@ Over the years, FEMININO has grown steadily, expanded into new areas, and has ha
 ## Objectives
 This project analyzes customer satisfaction and business performance and identifies our most effective marketing channels to improve business performance.
 
-## Dataset: Blinkit
+## Dataset & Analysis: Blinkit
 The dataset is called Blinkit and contains data covering customers, customer feedback, orders, order items, products, and marketing performance.
 The datasets were cleaned and prepared by checking for missing values, duplicates, and data inconsistencies. Relevant tables were merged using customerid and orderId, while additional tables were created from existing data to support the analysis. The analyzed data was then imported into Power BI for visualization and dashboard development.
 
